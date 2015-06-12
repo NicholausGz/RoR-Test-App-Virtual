@@ -5,7 +5,7 @@ defaults: &defaults
   default_image_search_tag: "virtual"
   # If populated, the next three fields will appear at the end of page titles as "application_name - division_name - organization_name"
   application_name: "Your base app page title"
-  division_name: "Division Name"
+  division_name: "DHSI"
   division_url: "http://example.com/division_url"
   organization_name: "University name"
   meta_description: "A short description to include in the meta description tag"

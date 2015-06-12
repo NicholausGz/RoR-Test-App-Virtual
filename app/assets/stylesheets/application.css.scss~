@@ -1,5 +1,5 @@
-$lentil_yellow: #0b083b
-$lentil_blue: #FFF9aa
+$lentil_yellow: #FFFFFF
+$lentil_blue: #000000
 
 @import "lentil";
 
@@ -11,9 +11,9 @@ body {
 }
 
 navbar-inner {
-	background: #827fb2;
+	background: red;
 }
 
 div.header {
-	background: #0b083b;
+	background: green;
 }

@@ -2,7 +2,7 @@ defaults: &defaults
   instagram_client_id: "c9735368102d425a863fbdab9a88d195"
   instagram_client_secret: "7f57ff9f03504866b2718b7be0cc1829"
   instagram_access_token: "1930146428.c973536.611e4fecdde047c084647e3d6288a127"
-  default_image_search_tag: "cloudporn"
+  default_image_search_tag: "virtual"
   # If populated, the next three fields will appear at the end of page titles as "application_name - division_name - organization_name"
   application_name: "Your base app page title"
   division_name: "Division Name"
